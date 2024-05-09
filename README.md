@@ -18,7 +18,7 @@ scikit-learn 1.4.1.post1 Python 3.9.13
 torch 2.2.1+cu118
 
 **How to run**
-1. Download dataset from https://www.kaggle.com/datasets/flo2607/traffic-signs-classification
+1. Download dataset from https://drive.google.com/file/d/1ieJKBpl9ZQ2xQKjvkhwHkZrGwJLV1qpr/view?usp=drive_link
 2. Put directories train and test_all together in directory with convolutional.ipynb
 3. Run convolutional.ipynb in Jupyter Notebook
 
