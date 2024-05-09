@@ -24,7 +24,7 @@ torch 2.2.1+cu118
 
 ## Overview
 
-The goal of this project is to build a convolutional neural network (CNN) to classify 64x64x3 images into one of 50 predefined classes. CNN is implemented using Python with the Pytorch library. The model is trained on a labeled dataset containing images from different categories to accurately predict the class labels of images. This project serves as an educational exercise and practical application of deep learning techniques to image classification tasks. 
+The goal of this project is to build a convolutional neural network (CNN) to classify 64x64x3 images into one of 50 predefined classes. CNN is implemented using Python with the Pytorch library. The model is trained on a labeled dataset containing images from different categories to accurately predict the class labels of images. The low resolution of images is caused by limited time and computing power available for training the network. This project serves as an educational exercise and practical application of deep learning techniques to image classification tasks. 
 
 The number of images per class in the training set is usually between 300 and 400 images, except for two classes, one of which has around 200 images and the other has less than 100, as shown on histogram below.
 
