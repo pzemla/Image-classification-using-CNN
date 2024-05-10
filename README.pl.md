@@ -18,7 +18,7 @@ scikit-learn 1.4.1.post1 Python 3.9.13
 torch 2.2.1+cu118
 
 **Jak uruchomić**
-1. Pobierz dataset z https://drive.google.com/file/d/1ieJKBpl9ZQ2xQKjvkhwHkZrGwJLV1qpr/view?usp=drive_link
+1. Pobierz dataset z https://drive.google.com/file/d/1ieJKBpl9ZQ2xQKjvkhwHkZrGwJLV1qpr/view?usp=sharing
 2. Umieść foldery train i test_all w tym samym folderze co convolutional.ipynb
 3. Uruchom convolutional.ipynb w Jupyter Notebook
 
