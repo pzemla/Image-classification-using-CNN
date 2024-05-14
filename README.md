@@ -96,3 +96,7 @@ The cross-entropy loss function was chosen because its result can be interpreted
 # Results
 
 The best accuracy achieved is 62%. Some factors that hinder achieving higher accuracy (excluding limits of CNN size and architecture) come from dataset. Images have low resolution and as shown in example images above, sometimes object which is classified is hidden in the background (person holding batteries, which take only small amount of image space, turtle hidden in water, part of towel on a hanger), as well as relatively low amount of images in each class. Considering those factors, 62% accuracy (as opposed to around 2% accuracy for random guessing) seems satisfactory for relatively simple CNN.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
