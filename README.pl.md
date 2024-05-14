@@ -95,3 +95,8 @@ Funkcja straty entropii krzyżowej (cross-entropy loss) została wybrana poniewa
 # Rezultaty
 
 Najlepsza osiągnięta dokładność wynosi 62%. Niektóre czynniki utrudniające osiągnięcie wyższej dokładności (z wyłączeniem ograniczeń dotyczących rozmiaru i architektury CNN) pochodzą ze zbioru danych. Zdjęcia mają niską rozdzielczość i jak widać na powyższych przykładowych zdjęciach, czasami sklasyfikowany obiekt jest ukryty w tle (osoba trzymająca baterie, które zajmują tylko niewielką część obrazu, żółw ukryty w wodzie, część ręcznika na wieszaku), oraz  mają stosunkowo niewielką liczba obrazów w każdej klasie. Biorąc pod uwagę te czynniki, dokładność 62% (w porównaniu z dokładnością około 2% w przypadku zgadywania losowego) wydaje się zadowalająca w przypadku stosunkowo prostej sieci CNN.
+
+
+## Licencja
+
+Ten projekt jest dostępny na licencji MIT - zobacz plik LICENSE dla szczegółów.
